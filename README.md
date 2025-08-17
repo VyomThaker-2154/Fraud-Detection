@@ -1,4 +1,4 @@
-# Proactive Fraud Detection — Industry‑Level README
+# Proactive Fraud Detection
 
 **Repository:** Fraud Detection Analysis
 **Notebook:** `fraud_detect.ipynb`
